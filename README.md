@@ -1,4 +1,4 @@
-# Personal Agent
+# Personal Assistant
 
 This application allows you to teach information to an AI agent and ask questions about the stored knowledge. It runs locally on your machine using LM Studio for the language model server.
 
