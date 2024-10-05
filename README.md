@@ -76,6 +76,11 @@ If you want to use a model other than "hugging-quants/Llama-3.2-1B-Instruct-Q8_0
 - `index.html`: Frontend interface for the application
 - `requirements.txt`: List of Python package dependencies
 
+## Credit
+
+Special thanks to [Maharshi](https://x.com/mrsiipa) for the original idea and pipeline for this project.
+
+
 ## Troubleshooting
 
 If you encounter issues:
